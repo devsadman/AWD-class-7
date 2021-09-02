@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'ubuntu';
+    src: url('../fonts/UbuntuCondensed-Regular.ttf')
+  }
+  * {
+    font-family: 'ubuntu';
+  }
+ .upload{
+   width: 70px;
+   cursor: pointer;
+ }
+ #load{
+   width: 200px;
+   display: block;
+ }
+ .team{
+   width: 350px;
+   padding: 20px;
+ }
+ .team img {
+   width: 150px;
+   height: 150px;
+   display: block;
+   border-radius: 50%;
+   border:1px solid black;
+   margin: 0 auto;
+ }
+ .team h3 {
+   color:#01121F;
+   margin-top: 10px;
+   text-align: center;
+ }
+ .team h5 {
+  color:red;
+  text-align: center;
+}
+.team p {
+  color:#01121F;
+  text-align: center;
+}

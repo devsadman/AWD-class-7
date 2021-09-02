@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'ubuntu';
+    src: url('../fonts/UbuntuCondensed-Regular.ttf')
+  }
+  * {
+    font-family: 'ubuntu';
+  }
+ .upload{
+   width: 70px;
+   cursor: pointer;
+ }
+ #load{
+   
+   width: 200px;
+   display: block;
+ }
